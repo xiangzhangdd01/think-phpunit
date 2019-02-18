@@ -1,5 +1,5 @@
 {
-    "name": "tigerb/think-phpunit",
+    "name": "think-phpunit",
     "description": "ThinkPHP5——phpunit测试用例",
     "type": "phpunit",
     "license": "MIT",
